@@ -1,2 +1,2 @@
-# joeC_techElevator
+# JoeC-TechElevator
 This repo will be used for my course work @ Tech Elevator
